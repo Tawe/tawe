@@ -9,9 +9,14 @@
 
 ## 🧭 About Me
 
-I'm **John Munn** — a systems thinker, full-stack dev, and team builder with a love for clean code, chaotic good energy, and meaningful collaboration.
+I'm **John Munn** — a systems thinker, full-stack builder, and creative leader who turns complexity into clarity.
 
-I currently work at **resulta**. I also write, mentor, and build things that last.
+With over 20 years in software development, I’ve built scalable platforms, mentored engineering teams, and helped organizations evolve their technical vision. I believe leadership is as much about listening and alignment as it is about architecture and execution.
+
+Currently at **resulta**, I focus on building systems that empower people — from high-performing dev teams to platforms designed for growth.  
+I also write, mentor, and design fantasy stories that explore real-world leadership challenges.
+
+> *“Build systems that outlast people, and people who outgrow systems.”*
 
 ---
 
