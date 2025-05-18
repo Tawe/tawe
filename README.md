@@ -43,7 +43,6 @@ Currently at Resulta, my focus is on building systems that empower people while 
 
 - [🧭 What Being a DM Taught Me About Leadership (and Saying No)](https://medium.com/@johnmunn/what-being-a-dm-taught-me-about-leadership-and-saying-no-6d3aebf0abf9) - *Insights on setting boundaries and the unexpected leadership lessons from running D&D campaigns.*
 - [🧠 Max Mode in Cursor: Cost Control Guide](https://medium.com/@johnmunn/max-mode-in-cursor-cost-control-guide) - *Strategic considerations for leveraging powerful AI tools while managing costs effectively within development teams.*
-- [📘 Where Worth Lies – A Leadership Fable](https://medium.com/@johnmunn/where-worth-lies-an-examination-of-value-44ae76404d38) - *A short story exploring the fundamental principles of value and leadership through a unique and thought-provoking narrative.*
 
 > *Blending strategic thinking, systems design principles, and leadership insight—one story at a time.*
 
