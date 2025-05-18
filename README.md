@@ -69,12 +69,12 @@ A short fantasy story about leadership, worth, and how we measure it — told th
 <p><a href="https://medium.com/@johnmunn/where-worth-lies-an-examination-of-value-44ae76404d38" target="_blank"><strong>Read Story →</strong></a></p>
     </td>
     <td align="center" width="300">
-      <p><a href="https://medium.com/@johnmunn" target="_blank">
-        <img src="https://raw.githubusercontent.com/Tawe/Writings/refs/heads/main/The%20World%20of%20Artumin/The%20Storm%20and%20the%20Ledger%20%E2%80%93%20An%20Examination%20of%20Trust/stormnovelcovers.png" width="200px"><br/>
+      <p><a href="https://medium.com/@johnmunn/the-storm-and-the-ledger-an-examination-of-trust-a5a1249ddba0" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jT0j6c_WClqC7lKpq5Wc_w.png" width="200px"><br/>
        </p>
 <p><strong><em>Storm and the Ledger</em></strong><br/>
 A short fantasy story about leadership, trust, and the weight of decision — told beneath thunderclouds on the open road.</p>
-<p><a href="https://medium.com/@johnmunn/where-worth-lies-an-examination-of-value-44ae76404d38" target="_blank"><strong>Read Story →</strong></a></p>
+<p><a href="https://medium.com/@johnmunn/the-storm-and-the-ledger-an-examination-of-trust-a5a1249ddba0" target="_blank"><strong>Read Story →</strong></a></p>
     </td>
   </tr>
 </table>
