@@ -78,5 +78,5 @@ A short fantasy story about leadership, trust, and the weight of decision — to
   <a href="https://www.linkedin.com/in/john-munn-bbab434b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://medium.com/@johnmunn"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"></a>
   <a href="https://dev.to/tawe"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://johnmunn.substack.com"><img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white"></a>
+  <a href="https://tawe.substack.com/"><img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white"></a>
 </p>
