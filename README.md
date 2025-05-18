@@ -1,60 +1,51 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=John%20Munn&fontSize=60&fontAlign=50&fontColor=white" />
 
 <p align="center">
-  <em>Developer. Leader. Dungeon Master.<br>
-  Architect of Systems, Cultures, and a Few Too Many Campaigns.</em>
+  <em>A results-oriented technology leader with over 20 years of experience driving innovation and building high-performing engineering teams.<br>
+  I excel at translating complex technical challenges into clear strategic visions that align with business objectives.</em>
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I'm **John Munn** — a systems thinker, full-stack builder, and creative leader who turns complexity into clarity.
+Throughout my career, I've built scalable platforms that significantly improved developer velocity, platform stability, and end-user engagement. I’ve mentored engineering teams through phases of rapid growth, platform transformation, and capability scaling—helping them deliver solutions that are not only technically sound, but strategically aligned.
 
-With over 20 years in software development, I’ve built scalable platforms, mentored engineering teams, and helped organizations evolve their technical vision. I believe leadership is as much about listening and alignment as it is about architecture and execution.
+I firmly believe that effective leadership is rooted in active listening, strong alignment, and the empowerment of others. 
 
-Currently at **resulta**, I focus on building systems that empower people — from high-performing dev teams to platforms designed for growth.  
-I also write, mentor, and design fantasy stories that explore real-world leadership challenges.
+Currently at Resulta, my focus is on building systems that empower people while driving long-term business value and strategic advantage. I am particularly passionate about leveraging AI to augment developer workflows and rethinking platform architecture around modular, composable systems. I’m also a strong advocate for clear and effective communication—using writing, storytelling, and worldbuilding to explore leadership principles and spark innovation within the teams I support.
 
 > *“Build systems that outlast people, and people who outgrow systems.”*
 
 ---
 
-## 🧠 What I'm Into
+## 🧠 Strategic Focus & Interests
 
-- ⚙️ Software, infrastructure & systems thinking  
-- ✨ AI tooling, prompt engineering, and code automation  
-- 🧪 Experiments in storytelling, leadership, and technology  
-- 🎲 Designing RPGs and worldbuilding for 28+ years
-
----
-
-## 🔧 My Stack
-
-- **Languages:** JavaScript / TypeScript / PHP / Python / GraphQL 
-- **Frameworks:** React / Next.js / Tailwind / Node  
-- **Infra & DevOps:** Docker / AWS / Redis / Cloudflare 
-- **AI Tools:** Cursor / ChatGPT / Claude / Gemini  
-- **Other:** SEO / Web3 / Writing / Leadership / Performance Optimization
+- **Strategic Systems Design:** Architecting scalable and resilient platforms that support business growth and long-term vision.
+- **Leading Technology Innovation:** Exploring and implementing emerging technologies, such as AI and automation, to enhance developer productivity and drive strategic initiatives.
+- **Leadership Development & Communication:** Utilizing diverse mediums to explore and communicate effective leadership principles, fostering a culture of growth and collaboration.
+- **Fostering Creativity & Collaboration:** Understanding the dynamics of team collaboration and creative problem-solving through complex systems, drawing insights from years of designing engaging experiences.
 
 ---
 
-## 📈 GitHub Vibes
+## 🔧 My Areas of Expertise
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tawe&layout=compact&theme=tokyonight)
+- **Languages:** JavaScript / TypeScript, Python, PHP, GraphQL
+- **Frameworks:** React / Next.js, Node.js, Tailwind CSS
+- **Infra & DevOps:** AWS, Docker, Redis, Cloudflare
+- **AI Tools:** Cursor, ChatGPT, Claude, Gemini
+- **Other:** Leadership, Systems Design, Web3, SEO, Performance Optimization, Technical Writing
+
 
 ---
 
-## ✍️ Featured Writing
+## ✍️ Featured Leadership Insights
 
-- [🧭 What Being a DM Taught Me About Leadership (and Saying No)](https://medium.com/@johnmunn/what-being-a-dm-taught-me-about-leadership-and-saying-no-6d3aebf0abf9)  
-- [🧠 Max Mode in Cursor: Cost Control Guide](https://medium.com/@johnmunn/max-mode-in-cursor-cost-control-guide)  
-- [📘 Where Worth Lies – A Leadership Fable](https://medium.com/@johnmunn/where-worth-lies-an-examination-of-value-44ae76404d38)
+- [🧭 What Being a DM Taught Me About Leadership (and Saying No)](https://medium.com/@johnmunn/what-being-a-dm-taught-me-about-leadership-and-saying-no-6d3aebf0abf9) - *Insights on setting boundaries and the unexpected leadership lessons from running D&D campaigns.*
+- [🧠 Max Mode in Cursor: Cost Control Guide](https://medium.com/@johnmunn/max-mode-in-cursor-cost-control-guide) - *Strategic considerations for leveraging powerful AI tools while managing costs effectively within development teams.*
+- [📘 Where Worth Lies – A Leadership Fable](https://medium.com/@johnmunn/where-worth-lies-an-examination-of-value-44ae76404d38) - *A short story exploring the fundamental principles of value and leadership through a unique and thought-provoking narrative.*
 
-
-
-> *Blending fantasy, systems design, and leadership insight—one story at a time.*
-
+> *Blending strategic thinking, systems design principles, and leadership insight—one story at a time.*
 
 <h3 align="center">📖 The Leadership Fables of Artumin</h3>
 
@@ -63,31 +54,29 @@ I also write, mentor, and design fantasy stories that explore real-world leaders
     <td align="center" width="300">
       <p><a href="https://medium.com/@johnmunn/where-worth-lies-an-examination-of-value-44ae76404d38" target="_blank">
         <img src="https://raw.githubusercontent.com/Tawe/Writings/refs/heads/main/The%20World%20of%20Artumin/Where%20Worth%20Lies%20-%20An%20Examination%20of%20Value/whereworthliesnovel.png" width="200px"><br/>
-       </p>
+      </p>
 <p><strong><em>Where Worth Lies</em></strong><br/>
-A short fantasy story about leadership, worth, and how we measure it — told through a candlelit negotiation.</p>
-<p><a href="https://medium.com/@johnmunn/where-worth-lies-an-examination-of-value-44ae76404d38" target="_blank"><strong>Read Story →</strong></a></p>
+A short fantasy story exploring leadership, worth, and how we measure it — told through a candlelit negotiation. <a href="https://medium.com/@johnmunn/where-worth-lies-an-examination-of-value-44ae76404d38" target="_blank"><strong>Read Story →</strong></a></p>
     </td>
     <td align="center" width="300">
       <p><a href="https://medium.com/@johnmunn/the-storm-and-the-ledger-an-examination-of-trust-a5a1249ddba0" target="_blank">
         <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jT0j6c_WClqC7lKpq5Wc_w.png" width="200px"><br/>
-       </p>
+      </p>
 <p><strong><em>Storm and the Ledger</em></strong><br/>
-A short fantasy story about leadership, trust, and the weight of decision — told beneath thunderclouds on the open road.</p>
-<p><a href="https://medium.com/@johnmunn/the-storm-and-the-ledger-an-examination-of-trust-a5a1249ddba0" target="_blank"><strong>Read Story →</strong></a></p>
+A short fantasy story about leadership, trust, and the weight of decision — told beneath thunderclouds on the open road. <a href="https://medium.com/@johnmunn/the-storm-and-the-ledger-an-examination-of-trust-a5a1249ddba0" target="_blank"><strong>Read Story →</strong></a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛰️ Let’s Connect
+## 🛰️ Connect with Me
 
 <p align="center">
+  I'm always open to connecting with fellow leaders and innovators. Feel free to reach out!
+  <br/>
   <a href="https://www.linkedin.com/in/john-munn-bbab434b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://medium.com/@johnmunn"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"></a>
   <a href="https://dev.to/tawe"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://johnmunn.substack.com"><img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white"></a>
 </p>
-
-
