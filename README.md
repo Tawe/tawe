@@ -31,11 +31,11 @@ I also write, mentor, and design fantasy stories that explore real-world leaders
 
 ## 🔧 My Stack
 
-**Languages:** JavaScript / TypeScript / PHP / Python / GraphQL 
-**Frameworks:** React / Next.js / Tailwind / Node  
-**Infra & DevOps:** Docker / AWS / Redis / Cloudflare 
-**AI Tools:** Cursor / ChatGPT / Claude / Gemini  
-**Other:** SEO / Web3 / Writing / Leadership / Performance Optimization
+- **Languages:** JavaScript / TypeScript / PHP / Python / GraphQL 
+- **Frameworks:** React / Next.js / Tailwind / Node  
+- **Infra & DevOps:** Docker / AWS / Redis / Cloudflare 
+- **AI Tools:** Cursor / ChatGPT / Claude / Gemini  
+- **Other:** SEO / Web3 / Writing / Leadership / Performance Optimization
 
 ---
 
