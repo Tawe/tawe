@@ -90,10 +90,4 @@ A short fantasy story about leadership, trust, and the weight of decision — to
   <a href="https://johnmunn.substack.com"><img src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white"></a>
 </p>
 
----
 
-## 🧭 Philosophy in a Sentence
-
-> *"Build systems that outlast people, and people who outgrow systems."*
-
----
