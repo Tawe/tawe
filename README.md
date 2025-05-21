@@ -41,12 +41,11 @@ Currently at Resulta, my focus is on building systems that empower people while 
 
 ## ✍️ Featured Leadership Insights
 
-- [🧭 What Being a DM Taught Me About Leadership (and Saying No)](https://medium.com/@johnmunn/what-being-a-dm-taught-me-about-leadership-and-saying-no-6d3aebf0abf9) - *Insights on setting boundaries and the unexpected leadership lessons from running D&D campaigns.*
-- [🧠 Max Mode in Cursor: Cost Control Guide](https://medium.com/@johnmunn/max-mode-in-cursor-cost-control-guide) - *Strategic considerations for leveraging powerful AI tools while managing costs effectively within development teams.*
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@johnmunn/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@johnmunn/0" alt="Recent Article 0"> 
 
 > *Blending strategic thinking, systems design principles, and leadership insight—one story at a time.*
 
-<h3 align="center">📖 The Leadership Fables of Artumin</h3>
+<h3 align="center">📖 The Leadership Tales of Artumin</h3>
 
 <table align="center" border="1">
   <tr>
