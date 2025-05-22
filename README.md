@@ -63,6 +63,14 @@ A short fantasy story exploring leadership, worth, and how we measure it — tol
 <p><strong><em>Storm and the Ledger</em></strong><br/>
 A short fantasy story about leadership, trust, and the weight of decision — told beneath thunderclouds on the open road. <a href="https://medium.com/@johnmunn/the-storm-and-the-ledger-an-examination-of-trust-a5a1249ddba0" target="_blank"><strong>Read Story →</strong></a></p>
     </td>
+  </tr><tr>
+    <td align="center" width="300">
+      <p><a href="https://medium.com/@johnmunn/the-blackpowder-decision-an-examination-on-adoption-of-the-cutting-edge-ce7dacb920cc" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*TlyXkkKDzrjO9QvlZIrJFA.png" width="200px"><br/>
+      </p>
+<p><strong><em>The Blackpowder Decision - An Examination on Adoption of the Cutting Edge</em></strong><br/>
+In the heat of a sunlit yard, a soldier challenges the old guard with blackpowder and belief. Trust, once lost, may not be earned again. <a href="https://medium.com/@johnmunn/the-blackpowder-decision-an-examination-on-adoption-of-the-cutting-edge-ce7dacb920cc" target="_blank"><strong>Read Story →</strong></a></p>
+    </td>
   </tr>
 </table>
 
