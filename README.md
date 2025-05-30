@@ -71,6 +71,13 @@ A short fantasy story about leadership, trust, and the weight of decision — to
 <p><strong><em>The Blackpowder Decision</em></strong><br/>
 In the heat of a sunlit yard, a soldier challenges the old guard with blackpowder and belief. Trust, once lost, may not be earned again. <br/><a href="https://medium.com/@johnmunn/the-blackpowder-decision-an-examination-on-adoption-of-the-cutting-edge-ce7dacb920cc" target="_blank"><strong>Read Story →</strong></a></p>
     </td>
+  <td align="center" width="300">
+      <p><a href="https://medium.com/@johnmunn/the-threshold-an-examination-of-cost-5f9d13f5dbe8" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*LXQNYvo5pLVpDFFAMJBsxQ.png" width="200px"><br/>
+      </p>
+<p><strong><em>The Threshold - An Examination of Cost</em></strong><br/>
+A failed ascent, a dying torch, and one last choice: glory or retreat. In the crypt's silence, four adventurers face the cost of ambition.<br/><a href="https://medium.com/@johnmunn/the-threshold-an-examination-of-cost-5f9d13f5dbe8" target="_blank"><strong>Read Story →</strong></a></p>
+    </td>
   </tr>
 </table>
 
