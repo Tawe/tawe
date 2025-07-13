@@ -45,50 +45,6 @@ Currently at Resulta, my focus is on building systems that empower people while 
 
 > *Blending strategic thinking, systems design principles, and leadership insight—one story at a time.*
 
-<h3 align="center">📖 The Leadership Tales of Artumin</h3>
-
-<table align="center" border="1">
-  <tr>
-    <td align="center" width="300">
-      <p><a href="https://medium.com/@johnmunn/where-worth-lies-an-examination-of-value-44ae76404d38" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*sNTxeXg7VYyMSjHtSKLe1g.png" width="200px"><br/>
-      </p>
-<p><strong><em>Where Worth Lies</em></strong><br/>
-A short fantasy story exploring leadership, worth, and how we measure it — told through a candlelit negotiation. <br /><a href="https://medium.com/@johnmunn/where-worth-lies-an-examination-of-value-44ae76404d38" target="_blank"><strong>Read Story →</strong></a></p>
-    </td>
-    <td align="center" width="300">
-      <p><a href="https://medium.com/@johnmunn/the-storm-and-the-ledger-an-examination-of-trust-a5a1249ddba0" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*jT0j6c_WClqC7lKpq5Wc_w.png" width="200px"><br/>
-      </p>
-<p><strong><em>Storm and the Ledger</em></strong><br/>
-A short fantasy story about leadership, trust, and the weight of decision — told beneath thunderclouds on the open road.<br /> <a href="https://medium.com/@johnmunn/the-storm-and-the-ledger-an-examination-of-trust-a5a1249ddba0" target="_blank"><strong>Read Story →</strong></a></p>
-    </td>
-  </tr><tr>
-    <td align="center" width="300">
-      <p><a href="https://medium.com/@johnmunn/the-blackpowder-decision-an-examination-on-adoption-of-the-cutting-edge-ce7dacb920cc" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*TlyXkkKDzrjO9QvlZIrJFA.png" width="200px"><br/>
-      </p>
-<p><strong><em>The Blackpowder Decision</em></strong><br/>
-In the heat of a sunlit yard, a soldier challenges the old guard with blackpowder and belief. Trust, once lost, may not be earned again. <br/><a href="https://medium.com/@johnmunn/the-blackpowder-decision-an-examination-on-adoption-of-the-cutting-edge-ce7dacb920cc" target="_blank"><strong>Read Story →</strong></a></p>
-    </td>
-  <td align="center" width="300">
-      <p><a href="https://medium.com/@johnmunn/the-threshold-an-examination-of-cost-5f9d13f5dbe8" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*LXQNYvo5pLVpDFFAMJBsxQ.png" width="200px"><br/>
-      </p>
-<p><strong><em>The Threshold - An Examination of Cost</em></strong><br/>
-A failed ascent, a dying torch, and one last choice: glory or retreat. In the crypt's silence, four adventurers face the cost of ambition.<br/><a href="https://medium.com/@johnmunn/the-threshold-an-examination-of-cost-5f9d13f5dbe8" target="_blank"><strong>Read Story →</strong></a></p>
-    </td>
-<tr>
-    <td align="center" width="300">
-      <p><a href="https://medium.com/@johnmunn/the-keys-of-continuance-an-examination-of-succession-11ff13be12eb" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*0WCtRmdjPhYJ8xjSpqplow.png" width="200px"><br/>
-      </p>
-<p><strong><em>The Keys of Continuance: An Examination of Succession</em></strong><br/>
-When a lifelong leader dies, the locksmiths of Artumin must choose: tradition or transformation? A quiet battle of legacy and change. <br/><a href="https://medium.com/@johnmunn/the-keys-of-continuance-an-examination-of-succession-11ff13be12eb" target="_blank"><strong>Read Story →</strong></a></p>
-    </td>
-  </tr>  </tr>
-</table>
-
 ---
 
 ## 🛰️ Connect with Me
