@@ -2,7 +2,7 @@
 
 I firmly believe that effective leadership is rooted in listening, alignment, and the empowerment of others. 
 
-my focus is on building systems that empower people while driving long-term business value and strategic advantage. I am passionate about leveraging AI to augment developer workflows. I’m also a strong advocate for clear and effective communication—using writing, storytelling, and worldbuilding to explore leadership principles and spark innovation within the teams I support.
+my focus is on building systems that empower people while driving long-term business value and strategic advantage. I am passionate about leveraging AI to augment developer workflows. I’m also an advocate for clear and effective communication using writing, storytelling, and worldbuilding to explore leadership principles and spark innovation within the teams I support.
 
 <p align="center">
   <br/>
