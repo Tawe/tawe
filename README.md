@@ -1,4 +1,4 @@
-## 🧭 About Me
+## About Me
 
 I firmly believe that effective leadership is rooted in listening, alignment, and the empowerment of others. 
 
