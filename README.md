@@ -12,10 +12,6 @@ JavaScript · TypeScript · Python · React · Node.js · AWS · Docker · AI to
 
 I believe: *Build systems that outlast people, and people who outgrow systems.*
 
-**Featured insights**
-- What being a DM taught me about leadership  
-- Managing AI cost & team strategy
-
 Let’s connect:
 <p align="center">
   <br/>
