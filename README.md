@@ -1,9 +1,22 @@
-## About Me
+## Hi, I’m John Munn
 
-I firmly believe that effective leadership is rooted in listening, alignment, and the empowerment of others. 
+I’m a results-oriented technology leader with 20+ years experience building resilient platforms and high-performance teams.
 
-my focus is on building systems that empower people while driving long-term business value and strategic advantage. I am passionate about leveraging AI to augment developer workflows. I’m also an advocate for clear and effective communication using writing, storytelling, and worldbuilding to explore leadership principles and spark innovation within the teams I support.
+**What I care about**
+- Strategic systems design that scales
+- Augmenting developer workflows with AI
+- Clear communication through writing and storytelling
 
+ **Tech Stack**
+JavaScript · TypeScript · Python · React · Node.js · AWS · Docker · AI tools
+
+I believe: *Build systems that outlast people, and people who outgrow systems.*
+
+📌 **Featured insights**
+- What being a DM taught me about leadership  
+- Managing AI cost & team strategy
+
+📫 Let’s connect:
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/john-munn-bbab434b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
