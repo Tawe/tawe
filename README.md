@@ -1,4 +1,4 @@
-## Hi, I’m John Munn
+## Hi, I’m John
 
 I’m a results-oriented technology leader with 20+ years experience building resilient platforms and high-performance teams.
 
