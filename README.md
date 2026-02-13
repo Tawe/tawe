@@ -17,7 +17,7 @@ JavaScript · TypeScript · Python · React · Node.js · AWS · Docker · AI to
 - [ArcaneForge](https://github.com/Tawe/ArcaneForge) - D&D magic item generator powered by Google Gemini AI with rich lore, descriptions, and visual representations.
 - [CareerSignals](https://github.com/Tawe/careersignals) - AI-powered API that analyzes resumes and job descriptions to generate structured career insights like skills, role fit, and leadership potential.
 - [Personal Blog](https://github.com/Tawe/personal-blog) - Personal site on engineering leadership and strategic thinking.
-- [Elf Name](https://github.com/Tawe/elf-name) - Fantasy name generation utility.
+- [Elf Name](https://github.com/Tawe/elf-name) - Holiday name generator that gives you your official Santa's elf name.
 - [NPC-generator](https://github.com/Tawe/NPC-generator) - React-based random NPC generator for tabletop RPGs with race-appropriate names, stats, and a fantasy-themed UI.
 - [AI Greeting Card](https://github.com/Tawe/ai-greeting-card) - AI-powered digital holiday card platform for creating shareable cards based on occasion, vibe, and custom messages.
 - [Daily Code Challenges](https://github.com/Tawe/daily-code-challenges) - Solutions to daily coding challenges from platforms like LeetCode and freeCodeCamp.
