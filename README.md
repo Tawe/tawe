@@ -31,6 +31,7 @@ I've spent 20+ years in tech — from writing code to leading the people who wri
 
 **AI & Tools**
 
+- [**Dev Process Tracker**](https://github.com/Tawe/dev-process-tracker) — TUI-based CLI tool for tracking and controlling local dev services, with AI agent detection and managed service lifecycle.
 - [**Lorance**](https://github.com/Tawe/Lorance) — AI agent that turns messy project docs into grounded answers, decisions, and ticket-ready work items.
 - [**AI-CLI-Memory-Sync-Repo**](https://github.com/Tawe/AI-CLI-Memory-Sync-Repo) — One canonical AI instructions file, synced everywhere, with drift checking and CI integration.
 - [**CareerSignals**](https://github.com/Tawe/careersignals) — API that analyzes resumes and job descriptions to surface skills, role fit, and leadership potential.
